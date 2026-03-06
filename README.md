@@ -11,5 +11,3 @@ Features Used:
 - BMI
 - Children
 - Smoker BMI Interaction
-
-Deployment: Streamlit
